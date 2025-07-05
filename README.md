@@ -21,8 +21,7 @@ The notebook can be used as a template or reference for other EDA projects.
 ⸻
 
 🗂️ Contents
-	•	KPMG_EDA.ipynb: The Jupyter notebook containing the complete EDA workflow.
-	•	(Optional) data/: Directory to store the raw CSV files.
+KPMG_EDA.ipynb: The Jupyter notebook containing the complete EDA workflow.
 
 ⸻
 
@@ -42,15 +41,12 @@ seaborn
 
 pip install pandas numpy matplotlib seaborn
 
-
-⸻
-
 🚀 How to Run
 
 1️⃣ Clone this repository:
 
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/rupeshkumarpilla/beginner_projects.git
+cd rupeshkumarpilla
 
 2️⃣ Launch Jupyter Notebook:
 
@@ -91,8 +87,8 @@ If you’d like to improve the analysis or extend the notebook, please open an i
 
 📧 Contact
 	•	Author: Rupesh Kumar
-	•	Email: [your-email@example.com]
-	•	LinkedIn
+	•	Email: placementrupesh@gmail.com
+	•	LinkedIn : rupeshkumarpilla
 
 ⸻
 
@@ -100,32 +96,4 @@ If you’d like to improve the analysis or extend the notebook, please open an i
 	•	KPMG for the sample data
 	•	Open-source libraries: pandas, matplotlib, seaborn
 
-⸻
 
-✅ Quick Copy-Paste Minimal Version
-
-If you want an ultra-short README:
-
-# KPMG EDA
-
-This repository contains a Jupyter notebook for Exploratory Data Analysis (EDA) on KPMG's sample data.
-
-## Contents
-- `KPMG_EDA.ipynb`: The main analysis notebook.
-
-## Requirements
-- pandas
-- numpy
-- matplotlib
-- seaborn
-
-## Usage
-Clone the repo, install requirements, and open in Jupyter Notebook:
-
-```bash
-pip install pandas numpy matplotlib seaborn
-jupyter notebook
-
-License
-
-MIT License.
